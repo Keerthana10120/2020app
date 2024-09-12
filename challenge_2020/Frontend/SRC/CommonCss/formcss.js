@@ -1,0 +1,86 @@
+module.exports = {
+    formHead0: {
+        fontSize: 26,
+        fontWeight: 'bold',
+        color: '#fff'
+    },
+    formHead1: {
+        fontSize: 19,
+        fontWeight: 'bold', 
+        color: '#a5a5a5' 
+    },
+    formInput: {
+        width: '80%',
+        // height: 40,
+        backgroundColor: 'white',
+        borderRadius: 10,
+        marginVertical: 10,
+        paddingHorizontal: 15,
+        paddingVertical: 10,
+        fontSize: 18,
+    },
+    formbtn: {
+        height: 50,
+        width: '100%',
+        backgroundColor: '#8A2BE2',
+        borderRadius: 5,
+        borderWidth: 1,
+        fontSize: 18,
+        fontWeight: 'bold',
+        color: 'white',
+        textAlign: 'center',
+        paddingVertical: 10,
+        marginVertical: 10,
+    },
+    formbtn1: {
+        height: 50,
+        width: '90%',
+        backgroundColor: '#8A2BE2',
+        borderRadius: 5,
+        borderWidth: 1,
+        fontSize: 18,
+        fontWeight: 'bold',
+        color: 'white',
+        textAlign: 'center',
+        paddingVertical: 10,
+        marginVertical: 20,
+    },
+    formbtn2: {
+        backgroundColor: '#000',
+        height: 50,
+        borderRadius: 5,
+        justifyContent: 'center',
+        alignItems: 'center',
+        marginTop: 20,
+    },
+    formbtn3: {
+        backgroundColor: '#000',
+        height: 50,
+        borderRadius: 5,
+        justifyContent: 'center',
+        alignItems: 'center',
+        marginTop: 5,
+    },
+    formTextLinkRight: {
+        color: 'gray',
+        fontSize: 15,
+        textAlign: 'right',
+        width: '80%',
+        marginVertical: 10,
+    },
+    formTextLinkCenter: {
+        color: 'gray',
+        fontSize: 16,
+    },
+    formHead2: {
+        fontSize: 20,
+        color: 'white',
+        textAlign: 'center',
+        // fontWeight: 'bold',
+        // backgroundColor: 'white',
+    },
+    formHead3: {
+        fontSize: 19,
+        color: '#fff'
+    },
+}
